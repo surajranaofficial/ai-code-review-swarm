@@ -16,7 +16,7 @@ cover_image: [Your screenshot URL]
 **Agentic Postgres Challenge** 🏆
 
 ### Links
-- **GitHub**: [Your repo link]
+- **GitHub**: https://github.com/surajranaofficial/ai-code-review-swarm
 - **Demo**: Works locally (see setup below)
 
 ---
@@ -279,8 +279,8 @@ tiger service create --name code-review-swarm
 
 ```bash
 # Clone repo
-git clone https://github.com/[your-username]/agentic-postgres-challenge
-cd code-review-swarm/backend
+git clone https://github.com/surajranaofficial/ai-code-review-swarm
+cd ai-code-review-swarm/backend
 
 # Setup environment
 python -m venv venv
@@ -407,7 +407,7 @@ This project wouldn't be possible without Tiger Cloud's innovative features. The
 ## 📚 Resources
 
 - **Tiger Cloud**: https://www.tigerdata.com
-- **GitHub Repo**: [Your link]
+- **GitHub Repo**: https://github.com/surajranaofficial/ai-code-review-swarm
 - **Tiger CLI**: https://github.com/timescale/tiger-cli
 - **Gemini API**: https://ai.google.dev
 
