@@ -1,10 +1,11 @@
 # 🐅 AI Code Review Swarm
 
-> **Multi-agent code review system powered by Tiger Cloud Agentic Postgres**
+> **Multi-agent code review system powered by Tiger Cloud Agentic Postgres & Google Gemini 2.0 Flash**
 
 [![Tiger Cloud](https://img.shields.io/badge/Tiger-Cloud-orange)](https://www.tigerdata.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.109-green)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.14-blue)](https://www.python.org/)
+[![Gemini](https://img.shields.io/badge/Gemini-2.0_Flash-blue)](https://ai.google.dev/)
 
 ## 🎯 What Makes This Special?
 
@@ -48,7 +49,7 @@ This project showcases **Agentic Postgres** - where multiple AI agents work in p
 
 - Python 3.10+
 - Tiger Cloud account ([Sign up free](https://www.tigerdata.com/))
-- OpenAI or Anthropic API key
+- **Google Gemini API key** (or OpenAI/Anthropic API key)
 
 ### 1. Install Tiger CLI
 
@@ -285,6 +286,7 @@ MIT License - See LICENSE file
 
 - **Tiger Data** - For Agentic Postgres and free tier
 - **Timescale** - For pgvectorscale extension
+- **Google** - For Gemini 2.0 Flash API
 - **DEV Community** - For hosting this awesome challenge
 
 ## 🔗 Links
@@ -296,6 +298,6 @@ MIT License - See LICENSE file
 
 ---
 
-**Built with 🐅 Tiger Cloud Agentic Postgres**
+**Built with 🐅 Tiger Cloud Agentic Postgres & ⚡ Google Gemini 2.0 Flash**
 
 *"Agents are the new developers. Agentic Postgres is their playground."*
